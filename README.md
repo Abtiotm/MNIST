@@ -31,10 +31,6 @@ python softmax_regression.py
 python convolutional.py
 ```
 
-#### 可能出现的错误
-
-下载数据集时可能出现网络问题，可以用下面两种方法中的一种解决：1. 使用合适的代理 2.在MNIST的官方网站上下载文件train-images-idx3-ubyte.gz、train-labels-idx1-ubyte.gz、t10k-images-idx3-ubyte.gz、t10k-labels-idx1-ubyte.gz，并将它们存储在MNIST_data/文件夹中。
-
 
 #### 拓展阅读
 
